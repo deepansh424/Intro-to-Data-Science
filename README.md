@@ -1,2 +1,2 @@
 # Intro-to-Data-Science
-Assignments for the course on 'Intro to Data Science from Coursera Platform
+Assignments for the course on 'Introduction to Data Science' from Coursera Platform
